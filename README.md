@@ -1,7 +1,10 @@
 # TodoListApp
 This is a full stack application that enable user to add and remove to-do items. 
+
 Frontend: Angular
+
 Backend: Node
+
 Database: Json file (will update to a local database in the future)
 
 ## Demo video:
